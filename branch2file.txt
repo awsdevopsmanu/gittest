@@ -1,1 +1,2 @@
 branch2file edited in hub
+added text in local branch2 repo
